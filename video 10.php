@@ -1,5 +1,5 @@
 <?php
   // NULL
-$x = null;
+$x = NULL;
 
 var_dump($x === null);
