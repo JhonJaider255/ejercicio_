@@ -12,7 +12,7 @@ var_dump($x , $y);
 //comparison Operators (== === = == ?? ?;)
 
 $x = 5;
-$y= 63 ;
+$y= 5 ;
 
 var_dump($x == $y);
 

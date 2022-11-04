@@ -19,4 +19,7 @@ $programmingLanguages = ["PHP" , "Java" , "Python"] ;
  echo "</pre>";
  echo count($programmingLanguages);
 
+ echo strlen($name);
+
+
 

@@ -6,7 +6,7 @@ $name = $firstName.' '. $lastName;
 
 echo $name ."<br/>";
 
-echo $name[1];
+echo $name[9];
 echo "<br/>";
 //heredoc
 $x =1;
